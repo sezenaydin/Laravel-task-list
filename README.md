@@ -13,7 +13,7 @@ This project is a task management application developed using Laravel, Alpine.js
 ## Installation
 1. **Clone the Repository:**
 
-   git clone https://github.com/sezenaydin/tasklist.git
+   git clone https://github.com/sezenaydin/task-list.git
    cd tasklist
 
 
